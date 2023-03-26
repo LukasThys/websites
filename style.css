@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+	background-color: darkcyan;
+	color: lightblue;
+}
+a{
+	color: darkblue;
+}
+td{
+	vertical-align: top;
+}
